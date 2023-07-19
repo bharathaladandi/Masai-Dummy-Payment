@@ -1,0 +1,144 @@
+*{
+    font-family: sans-serif;
+}
+
+#container{
+    width:80%;
+    margin: auto;
+    display: flex;
+    margin: auto;
+
+}
+
+
+#cart{
+
+    /* margin: auto; */
+    text-align: center; 
+    margin: auto;
+    width:  35%;
+}
+
+
+#box{
+    border: 1px solid crimson;
+    /* height: 16rem; */
+    /* width: 50%; */
+    border-radius: 10px;
+    background-color: crimson;
+}
+
+
+#innerCart{
+    text-align: right;
+    font-family: sans-serif;
+    margin: 2%;
+    color: white;
+}
+
+#onesec{
+    text-align: left;
+    margin: 2%;
+}
+
+#simim{
+    height: 30px;
+    text-align: right;
+    margin: auto;
+}
+
+#oneNumber{
+    text-align: start;
+    color: white;
+    font-family: sans-serif;
+}
+#oneNumber > span{
+    color: white;
+    /* border: 1px solid black; */
+    padding: 8px;
+}
+
+
+#below{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+/* From Section */
+
+
+#form{
+    text-align: start;
+    margin: auto;
+}
+
+#fromcont{
+
+}
+
+.line{
+    border: 1px solid crimson;
+    background-color: crimson;
+}
+
+.fo{
+    font-size: 15px;
+    
+}
+
+.cartHolderInut{
+    font-size: 20px;
+    border: none;
+}
+
+.cartNumberInut{
+    font-size: 20px;
+    border: none;
+}
+
+#formflex{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.foromfont{
+    font-size: 15px;
+}
+
+
+.frompayment{
+    font-size: 20px;
+}
+
+.frompayment > p > span{
+    color: crimson;
+}
+
+#fromButton{
+    /* width: 40%; */
+    margin-left: 20%;
+}
+
+#fromButto1{
+    background-color: crimson;
+    width: 80%;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid crimson;
+}
+#aaa{
+    color: white;
+    text-decoration: none;
+}
+.fromcvc{
+    border: none;
+}
+
